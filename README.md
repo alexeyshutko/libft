@@ -6,7 +6,7 @@ libft
 ## Installation
 Clone the repository to a directory.</br>
 ```
-https://github.com/Psigfry/libft2.git
+https://github.com/alexeyshutko/libft.git
 ```
 </br>
 Run make to compile the library.</br>
